@@ -2,5 +2,7 @@
     "cSpell.words": [
         "mtop",
         "Sdata"
-    ]
+    ],
+    "git.useEditorAsCommitInput": false,
+    "git.useCommitInputAsStashMessage": true
 }
